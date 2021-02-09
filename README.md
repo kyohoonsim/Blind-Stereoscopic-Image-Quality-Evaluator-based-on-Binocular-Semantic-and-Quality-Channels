@@ -10,3 +10,9 @@ K. Sim, J. Yang, W. Lu and X. Gao, "Blind Stereoscopic Image Quality Evaluator b
   * Please refer to https://www.vlfeat.org/matconvnet/install/ on how to install it.
 * pretrained VGG-F model
   * You can download it from https://www.vlfeat.org/matconvnet/pretrained/.
+
+## Demo
+Run demo.m.
+The proposed code was trained on the whole LIVE-1 database. 
+We prepared 4 stereopairs to test the code. 
+
