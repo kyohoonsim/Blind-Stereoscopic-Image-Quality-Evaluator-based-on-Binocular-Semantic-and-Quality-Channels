@@ -14,7 +14,7 @@ K. Sim, J. Yang, W. Lu and X. Gao, "Blind Stereoscopic Image Quality Evaluator b
 ## Demo
 Run demo.m.
 
-The proposed code was trained on the whole LIVE-1 database. 
+The proposed method was trained on the whole LIVE-1 database. 
 
 We prepared 4 stereopairs to test the code. 
 
