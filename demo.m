@@ -5,7 +5,7 @@ imL = imread('test1L.bmp');
 imR = imread('test1R.bmp');
 
 %% Binocular semantic feature extraction
-addpath('matconvnet-1.0-beta25/matlab')
+addpath(genpath('matconvnet-1.0-beta25/matlab'))
 run matconvnet-1.0-beta25/matlab/vl_setupnn;
 
 net = load('matconvnet-1.0-beta25/imagenet-vgg-f.mat');
